@@ -1,0 +1,18 @@
+{
+  "header": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 \u0438 \u043e\u0440\u0433\u0430\u043d\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f",
+  "title": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 \u0438 \u043e\u0440\u0433\u0430\u043d\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f - {site_name}",
+  "layout": "0",
+  "keywords": "",
+  "description": "",
+  "name": "structure",
+  "enabled": 1,
+  "icon": "",
+  "preview_image": "",
+  "type": 1,
+  "permission": "",
+  "section_dir": "\/engine\/sections",
+  "section_script": "{0}\/{1}.php",
+  "section_markup": "{0}\/{1}_markup.php",
+  "is_public": 1,
+  "page_markup": "\/data\/pages\/structure.php"
+}

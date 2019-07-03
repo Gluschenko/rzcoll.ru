@@ -1,0 +1,18 @@
+{
+  "header": "\u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0437\u0432\u043e\u043d\u043a\u043e\u0432",
+  "title": "\u0417\u0432\u043e\u043d\u043a\u0438 - {site_name}",
+  "layout": "0",
+  "keywords": "",
+  "description": "",
+  "name": "time_schedule",
+  "enabled": 1,
+  "icon": "",
+  "preview_image": "",
+  "type": 1,
+  "permission": "",
+  "section_dir": "\/engine\/sections",
+  "section_script": "{0}\/{1}.php",
+  "section_markup": "{0}\/{1}_markup.php",
+  "is_public": 1,
+  "page_markup": "\/data\/pages\/time_schedule.php"
+}

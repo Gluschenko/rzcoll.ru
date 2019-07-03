@@ -1,0 +1,18 @@
+{
+  "header": "\u0421\u043f\u0438\u0441\u043a\u0438 \u0430\u0431\u0438\u0442\u0443\u0440\u0438\u0435\u043d\u0442\u043e\u0432",
+  "title": "\u0421\u043f\u0438\u0441\u043a\u0438 \u0430\u0431\u0438\u0442\u0443\u0440\u0438\u0435\u043d\u0442\u043e\u0432 \u043e\u0447\u043d\u043e\u0433\u043e \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0437\u0430\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 20 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2017 \u0433\u043e\u0434\u0430 - {site_name}",
+  "layout": "0",
+  "keywords": "\u0430\u0431\u0438\u0442\u0443\u0440\u0438\u0435\u043d\u0442\u044b, 2017",
+  "description": "",
+  "name": "rating",
+  "enabled": 1,
+  "icon": "",
+  "preview_image": "",
+  "type": 1,
+  "permission": "",
+  "section_dir": "\/engine\/sections",
+  "section_script": "{0}\/{1}.php",
+  "section_markup": "{0}\/{1}_markup.php",
+  "is_public": 1,
+  "page_markup": "\/data\/pages\/rating.php"
+}

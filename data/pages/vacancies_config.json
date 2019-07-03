@@ -1,0 +1,15 @@
+{
+  "header": "\u0412\u0430\u043a\u0430\u043d\u0442\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0451\u043c\u0430",
+  "title": "\u0412\u0430\u043a\u0430\u043d\u0442\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0451\u043c\u0430 - {site_name}",
+  "layout": "0",
+  "keywords": "",
+  "description": "",
+  "name": "vacancies",
+  "enabled": 1,
+  "type": 1,
+  "permission": "",
+  "section_dir": "\/engine\/sections",
+  "section_script": "{0}\/{1}.php",
+  "section_markup": "{0}\/{1}_markup.php",
+  "page_markup": "\/data\/pages\/vacancies.php"
+}

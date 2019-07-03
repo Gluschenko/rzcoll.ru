@@ -1,0 +1,18 @@
+{
+  "header": "\u041f\u043e\u0441\u0442\u0443\u043f\u0430\u044e\u0449\u0438\u043c",
+  "title": "\u041f\u043e\u0441\u0442\u0443\u043f\u0430\u044e\u0449\u0438\u043c - {site_name}",
+  "layout": "0",
+  "keywords": "",
+  "description": "",
+  "name": "abiturients",
+  "enabled": 1,
+  "icon": "",
+  "preview_image": "\/modules\/college_template\/assets\/logo\/og_logo.png",
+  "type": 1,
+  "permission": "",
+  "section_dir": "\/engine\/sections",
+  "section_script": "{0}\/{1}.php",
+  "section_markup": "{0}\/{1}_markup.php",
+  "is_public": 1,
+  "page_markup": "\/data\/pages\/abiturients.php"
+}

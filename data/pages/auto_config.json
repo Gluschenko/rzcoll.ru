@@ -1,0 +1,18 @@
+{
+  "header": "\u0410\u0432\u0442\u043e\u0448\u043a\u043e\u043b\u0430",
+  "title": "\u0410\u0432\u0442\u043e\u0448\u043a\u043e\u043b\u0430 - {site_name}",
+  "layout": "0",
+  "keywords": "",
+  "description": "",
+  "name": "auto",
+  "enabled": 1,
+  "icon": "",
+  "preview_image": "\/files\/tesla-model-s.jpg",
+  "type": 1,
+  "permission": "",
+  "section_dir": "\/engine\/sections",
+  "section_script": "{0}\/{1}.php",
+  "section_markup": "{0}\/{1}_markup.php",
+  "is_public": 1,
+  "page_markup": "\/data\/pages\/auto.php"
+}

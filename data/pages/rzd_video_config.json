@@ -1,0 +1,15 @@
+{
+  "header": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 \u0416\u0414",
+  "title": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 \u0416\u0414 - {site_name}",
+  "layout": "0",
+  "keywords": "",
+  "description": "",
+  "name": "rzd_video",
+  "enabled": 1,
+  "type": 1,
+  "permission": "",
+  "section_dir": "\/engine\/sections",
+  "section_script": "{0}\/{1}.php",
+  "section_markup": "{0}\/{1}_markup.php",
+  "page_markup": "\/data\/pages\/rzd_video.php"
+}

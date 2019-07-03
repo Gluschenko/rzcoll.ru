@@ -1,0 +1,15 @@
+{
+  "header": "\u0427\u0430\u0442",
+  "title": "\u0427\u0430\u0442 - {site_name}",
+  "layout": "0",
+  "keywords": "",
+  "description": "",
+  "name": "chat",
+  "enabled": 1,
+  "type": 1,
+  "permission": "",
+  "section_dir": "\/engine\/sections",
+  "section_script": "{0}\/{1}.php",
+  "section_markup": "{0}\/{1}_markup.php",
+  "page_markup": "\/data\/pages\/chat.php"
+}
